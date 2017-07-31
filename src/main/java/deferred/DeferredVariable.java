@@ -1,0 +1,4 @@
+package deferred;
+
+interface DeferredVariable {
+}
